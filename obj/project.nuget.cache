@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IgRwMvbRC92da81DV0bRzimf5Yem6UeavULwpcNEUFS922yKEMknV5xa6NPMuN9kMzcMudLtfntSBGIPodANaw==",
+  "dgSpecHash": "R4qfhWWcj6G0zAzzr6p7ejZcgX0E4PKXc03SwzXkR608uybMug8ljfc2wmtdCQ8LMLsaLX7+T8zpN+MGxYaW8Q==",
   "success": true,
   "projectFilePath": "/Users/daniel/Desktop/Epicodus/C#W6/ConsoleApiCall/ConsoleApiCall.csproj",
   "expectedPackageFiles": [
+    "/Users/daniel/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
     "/Users/daniel/.nuget/packages/restsharp/106.6.10/restsharp.106.6.10.nupkg.sha512"
   ],
   "logs": []
